@@ -1,0 +1,2 @@
+features.NewHighlighter
+features.HighlightSearch
